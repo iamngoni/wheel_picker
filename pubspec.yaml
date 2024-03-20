@@ -7,15 +7,13 @@ environment:
   sdk: '>=3.4.0-247.0.dev <4.0.0'
 
 dependencies:
+  cupertino_icons: ^1.0.6
   flutter:
     sdk: flutter
-
-  cupertino_icons: ^1.0.6
+  handy_extensions:
+  relative_scale:
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
   very_good_analysis: ^5.1.0
 
 flutter:
